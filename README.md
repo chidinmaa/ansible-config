@@ -1,2 +1,2 @@
 # ansible-config
-tested
+tested and trusted
